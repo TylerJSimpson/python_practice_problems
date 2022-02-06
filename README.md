@@ -1,2 +1,6 @@
-# python_practice_problems
-Python3 common practice problems including: Caesar Cipher, Two Sum, Card Class
+# Python Practice Problems
+## Python3  
+### Common code problem solutions including:  
+* Caesar Cipher
+* Two Sum
+* Card Class
